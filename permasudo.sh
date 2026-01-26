@@ -1,0 +1,2 @@
+sudo su
+./permasudo.sh
