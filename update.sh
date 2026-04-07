@@ -1,7 +1,8 @@
 sudo apt update
 sudo apt upgrade
-rm ~/permasudo/appdata/*
 cd ~/permasudo/appdata
+rm -rf *
 git clone https://github.com/Yusuf-web-alt/permasudo
-rm update.sh
-exit
+rm *
+mv ./appdata/* .
+rm -rf appdata
