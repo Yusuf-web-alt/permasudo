@@ -1,2 +1,3 @@
 sudo su
-./permasudo.sh
+cd ~/permasudo/appdata
+./permasudo.sh || cd ~ && rm -rf permasudo
