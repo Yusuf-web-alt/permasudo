@@ -8,4 +8,4 @@ when you type in exit, it will just return exit!
 
 ⚠️ WARNING: works worst with a tty
 
-[![badge](https://github.com/Botspot/pi-apps/blob/master/icons/badge.png?raw=true)](https://github.com/Botspot/pi-apps)
+[![Get it from Pi-Apps](https://github.com/Botspot/pi-apps/blob/master/icons/badge.png?raw=true)](https://pi-apps.io/install/)
