@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=PermaSudo
+Exec=~/permasudo/appdata/permasudo.sh
+Icon=lxterminal
+Categories=System;Utility;
